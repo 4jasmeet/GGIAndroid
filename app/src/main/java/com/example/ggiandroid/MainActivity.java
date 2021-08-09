@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 /*
 1. Register the components by their id.
-2. action perform
+2. Action to be performed on the button.
  */
 public class MainActivity extends AppCompatActivity {
 
